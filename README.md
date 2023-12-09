@@ -1,2 +1,3 @@
 # artsoko
-A repository for art selling landing page website
+This is a React project built in Vite and hosted on Netlify.
+
